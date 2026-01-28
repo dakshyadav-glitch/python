@@ -133,6 +133,10 @@ These insights are designed to handle **high-cardinality datasets** where naive 
 
 ---
 
+## Database view
+![Screenshot](images/screenshot.png)
+
+
 ## ▶️ How to Run
 
 ### 1️⃣ Create virtual environment
