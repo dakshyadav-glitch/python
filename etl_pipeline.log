@@ -1,0 +1,47 @@
+2026-01-25 23:26:23,830 - INFO - Successfully extracted data from API
+2026-01-25 23:26:23,833 - INFO - Data transformed successfully
+2026-01-25 23:26:23,834 - INFO - Validation completed. Rejected records: 0
+2026-01-25 23:26:23,835 - INFO - CSV saved: validated_users_2026-01-25.csv
+2026-01-25 23:26:23,863 - INFO - Data loaded into SQLite successfully
+2026-01-25 23:35:50,261 - INFO - Successfully extracted data from API
+2026-01-25 23:35:50,263 - INFO - Data transformed successfully
+2026-01-25 23:35:50,266 - INFO - Validation completed. Rejected records: 0
+2026-01-25 23:35:50,267 - INFO - CSV saved: validated_users_2026-01-25.csv
+2026-01-25 23:35:50,279 - INFO - Data loaded into SQLite successfully
+2026-01-25 23:36:24,203 - INFO - Successfully extracted data from API
+2026-01-25 23:36:24,205 - INFO - Data transformed successfully
+2026-01-25 23:36:24,207 - INFO - Validation completed. Rejected records: 0
+2026-01-25 23:36:24,208 - INFO - CSV saved: validated_users_2026-01-25.csv
+2026-01-25 23:36:24,233 - INFO - Data loaded into SQLite successfully
+2026-01-26 00:14:09,737 - INFO - Successfully extracted data from API
+2026-01-26 00:14:09,740 - INFO - Data transformed successfully
+2026-01-26 00:14:09,743 - INFO - Validation completed. Rejected records: 0
+2026-01-26 00:14:09,744 - INFO - CSV saved: validated_users_2026-01-26.csv
+2026-01-26 00:14:09,792 - INFO - Data loaded into SQLite successfully
+2026-01-27 12:31:49,159 - ERROR - API extraction failed: HTTPSConnectionPool(host='jsonplaceholder.typicode.com', port=443): Read timed out. (read timeout=10)
+2026-01-27 12:33:57,242 - ERROR - API extraction failed: HTTPSConnectionPool(host='jsonplaceholder.typicode.com', port=443): Read timed out. (read timeout=10)
+2026-01-27 12:36:43,856 - INFO - Successfully extracted data from API
+2026-01-27 12:36:43,860 - INFO - Data transformed successfully
+2026-01-27 12:36:43,864 - INFO - Validation completed. Rejected records: 0
+2026-01-27 12:36:43,866 - INFO - CSV saved: validated_users_2026-01-27.csv
+2026-01-27 12:36:43,891 - INFO - Data loaded into SQLite successfully
+2026-01-27 12:40:07,730 - INFO - Successfully extracted data from API
+2026-01-27 12:40:07,735 - INFO - Data transformed successfully
+2026-01-27 12:40:07,738 - INFO - Validation completed. Rejected records: 0
+2026-01-27 12:40:07,740 - INFO - CSV saved: validated_users_2026-01-27.csv
+2026-01-27 12:40:07,768 - INFO - Data loaded into SQLite successfully
+2026-01-27 12:43:01,202 - INFO - Successfully extracted data from API
+2026-01-27 12:43:01,206 - INFO - Data transformed successfully
+2026-01-27 12:43:01,210 - INFO - Validation completed. Rejected records: 0
+2026-01-27 12:43:01,211 - INFO - CSV saved: validated_users_2026-01-27.csv
+2026-01-27 12:43:01,232 - INFO - Data loaded into SQLite successfully
+2026-01-27 12:49:27,858 - INFO - Successfully extracted data from API
+2026-01-27 12:49:27,862 - INFO - Data transformed successfully
+2026-01-27 12:49:27,866 - INFO - Validation completed. Rejected records: 0
+2026-01-27 12:49:27,868 - INFO - CSV saved: validated_users_2026-01-27.csv
+2026-01-27 12:49:27,912 - INFO - Data loaded into SQLite successfully
+2026-01-27 12:56:04,764 - INFO - Successfully extracted data from API
+2026-01-27 12:56:04,767 - INFO - Data transformed successfully
+2026-01-27 12:56:04,768 - INFO - Validation completed. Rejected records: 0
+2026-01-27 12:56:04,770 - INFO - CSV saved: validated_users_2026-01-27.csv
+2026-01-27 12:56:04,792 - INFO - Data loaded into SQLite successfully
