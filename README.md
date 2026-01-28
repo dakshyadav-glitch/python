@@ -1,8 +1,8 @@
-#  Delhi Metro ETL Pipeline
+#  Rapid Metro ETL Pipeline
 
 ##  Project Overview
 
-This project implements an **ETL (Extract–Transform–Load) pipeline** for **Delhi Metro data** using publicly available DMRC backend APIs.
+This project implements an **ETL (Extract–Transform–Load) pipeline** for **Rapid Metro data** using publicly available DMRC backend APIs.
 
 The pipeline dynamically fetches:
 
