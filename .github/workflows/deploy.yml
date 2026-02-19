@@ -29,9 +29,9 @@ jobs:
       - name: Run Station Scraper
         run: |
           IMAGE_NAME="us-central1-docker.pkg.dev/${{ secrets.GCP_PROJECT_ID }}/metro-repo/scraper:latest"
-          docker run $IMAGE_NAME python src/station_etl.py
+          docker run $IMAGE_NAME python station_etl.py
 
       - name: Run Route Scraper
         run: |
           IMAGE_NAME="us-central1-docker.pkg.dev/${{ secrets.GCP_PROJECT_ID }}/metro-repo/scraper:latest"
-          docker run $IMAGE_NAME python src/route_etl.py
+          docker run $IMAGE_NAME python route_etl.py
